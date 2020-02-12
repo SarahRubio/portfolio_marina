@@ -1,0 +1,126 @@
+
+*
+{
+    font-family: 'Josefin Slab', serif;
+    color: black;
+    font-size: 20px;
+}
+
+body
+{
+    margin-left: 130px;
+    margin-right: 130px;
+    margin-top: 70px;
+    margin-bottom: 100px;
+}
+
+h1
+{
+    font-size: 75px;
+    font-family: 'Sacramento', cursive;
+}
+
+figcaption
+{
+    font-size: 16px;
+    width: 300px;
+}
+
+
+
+nav
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 400px;
+}
+
+header
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 50px;
+}
+
+#apropos
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-right: 30px;
+    padding-left: 30px;
+    margin-bottom: 60px;
+}
+aside
+{
+    border: solid black 2px;
+    border-radius: 10px;
+}
+article
+{
+    width: 600px;
+    text-align: justify;
+    border: 2px dotted black;
+    border-radius: 10px;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+h2
+{
+    font-size: 45px;
+    text-align: center;
+    font-family: 'Sacramento', cursive;
+}
+
+#sculptures
+{
+display: flex;
+flex-direction: row;
+align-items: center;
+justify-content: space-around;
+padding-top: 50px;
+padding-bottom: 50px;
+padding-right: 25px;
+padding-left: 25px;
+border: 2px dotted black;
+border-radius: 10px;
+margin-bottom: 60px;
+}
+
+#photographies
+{
+display: flex;
+flex-direction: row;
+align-items: center;
+justify-content: space-around;
+padding-top: 50px;
+padding-bottom: 50px;
+padding-right: 25px;
+padding-left: 25px;
+border: 2px dotted black;
+border-radius: 10px;
+margin-bottom: 60px;
+}
+#peintures
+{
+display: flex;
+flex-direction: row;
+align-items: center;
+justify-content: space-around;
+padding-top: 50px;
+padding-bottom: 50px;
+padding-right: 25px;
+padding-left: 25px;
+border: 2px dotted black;
+border-radius: 10px;
+margin-bottom: 60px;
+}
+footer p
+{
+   font-size: 18px;
+   text-align: center;
+}
